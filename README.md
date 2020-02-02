@@ -3,7 +3,7 @@ Prática de curso "Learn Advanced C++ Programming", criado por John Purcell (dis
 
 ## Estrutura do repositório
 
-O material de estudo do curso se encontra dividido em partes, respectivamente as mesmas em que o autor o dividiu. Dentro de cada uma delas, existem os exercícios feitos a partir das aulas em subdiretórios respectivos a cada uma delas.
+O material de estudo se encontra na pasta **src** e está dividido em partes equivalentes às criadas pelo autor no curso. Dentro de cada uma delas, existem os exercícios feitos a partir das aulas em subdiretórios respectivos a cada uma delas.
 
 ## Executar os programas referentes aos códigos-fonte
 
