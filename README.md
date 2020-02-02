@@ -1,2 +1,2 @@
 # CursoCPPAvancado
-Prática de curso "Learn Advanced C++ Programming", created by John Purcell.
+Prática de curso "Learn Advanced C++ Programming", criado por John Purcell.
