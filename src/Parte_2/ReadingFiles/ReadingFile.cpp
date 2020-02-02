@@ -39,7 +39,7 @@ int main(int argc, char const *argv[])
         cout << "Nao foi possivel abrir o arquivo" << endl;
     }
     
-    
+    arquivoEntrada.close();
 
     return 0;
 }
