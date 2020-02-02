@@ -13,10 +13,7 @@ Para executar e/ou compilar cada um dos programas, existem três opções:
 ```
 ./Compile.sh <nome_codigo_fonte>
 ``` 
-- **Executar programa**: executar o script **Execute.sh** da seguinte forma:
-```             
-./Run.sh <nome_executavel>
-```  
+
 - **Compilar programa e executar programa**: executar o script **CompileAndRun.sh** da seguinte forma:
 ```
 ./CompileAndRun.sh <nome_executavel> <nome_codigo_fonte>
